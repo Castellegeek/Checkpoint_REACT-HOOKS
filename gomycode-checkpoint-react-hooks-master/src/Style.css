@@ -1,0 +1,45 @@
+
+
+.rating-input{
+    display: none;
+}
+
+.rate {
+    margin-left: 1.1rem;
+    margin-bottom: 0.5rem;
+}
+
+.container-border {
+    border: solid orange;
+}
+
+.card-title {
+    color: green;
+}
+
+.card-description {
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: justify;
+}
+
+.searchbar {
+    margin: 1rem 0;
+    color: rgb(69, 207, 69);
+}
+
+.check--color {
+    color: #ffc107;
+}
+
+.star {
+    color: #e4e5e9;
+}
+
+.adding-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    margin: 0.5rem 0;
+}
